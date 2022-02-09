@@ -15,6 +15,6 @@ Create The Decision Tree Classifier and visualize it graphically.
 ### Stock Market Predicton using Numerical and Textual Analysis
 **Dataset** : https://bit.ly/36fFPI6 , https://finance.yahoo.com/
 
-Create a hybird model for stock price/performance prediction using numerical analysis of historical stock price and sentiment analysis of news headlines.
+Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock price and sentiment analysis of news headlines.
 
-**Purpose** : Create a hybird model for stock prediction using numerical and textual analysis
+**Purpose** : Create a hybrid model for forecast the closing price of a stock based on the historical data of the stock and the news headlines of the chosen stock.
