@@ -13,7 +13,7 @@ Create The Decision Tree Classifier and visualize it graphically.
 
 ## 2nd Task
 ### Stock Market Predicton using Numerical and Textual Analysis
-**Dataset** : https://bit.ly/36fFPI6 , https://finance.yahoo.com/
+**Dataset** : https://bit.ly/36fFPI6 
 
 Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock price and sentiment analysis of news headlines.
 
